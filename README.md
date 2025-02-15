@@ -1,3 +1,5 @@
+- Command npm run dev to view 
+
 ## Figma URL
 
 [Birthday Buddy](https://www.figma.com/file/e2vsLe9DMnXZIygNHkwGL1/Birthday-buddy?node-id=0%3A1&t=AGNWdO5QQGOoNCfD-1)
@@ -37,7 +39,7 @@ Overall, the flow of the application should look something like this:
 - Create a List component that holds the rendered items.
 - Create a button with functionality to clear the list.
 - Display the number of items in the list using the length property of the state variable. This can be rendered using plain text or added to a message or heading element.
-# BirthdayBuddy
-# BirthdayBuddy
-# birthdayBuddy
+
 # birthdays
+
+
