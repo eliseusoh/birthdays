@@ -40,3 +40,4 @@ Overall, the flow of the application should look something like this:
 # BirthdayBuddy
 # BirthdayBuddy
 # birthdayBuddy
+# birthdays
