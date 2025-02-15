@@ -6,8 +6,6 @@
 
 ## Steps
 
-- don't worry about CSS, checkout example image
-
 #### Import Data
 
 In App.jsx, import the data (from data.js) to be rendered as an array of objects. Each object should represent a person and contain properties such as name, age, and image URL.
@@ -40,6 +38,5 @@ Overall, the flow of the application should look something like this:
 - Create a button with functionality to clear the list.
 - Display the number of items in the list using the length property of the state variable. This can be rendered using plain text or added to a message or heading element.
 
-# birthdays
 
 
